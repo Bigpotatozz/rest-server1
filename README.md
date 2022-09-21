@@ -1,2 +1,2 @@
-# rest-server1
+# restServer
 curso de node rest-server
